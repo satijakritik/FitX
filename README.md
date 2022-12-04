@@ -23,6 +23,16 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 
 This command creates the generated files that parse each Record from Firestore into a schema object.
 
+### Login Credentials for Testing:
+Email: abhigyankkashyap@gmail.com <br>
+Password: Password
+
+Email: ksatija@connect.hku.hk <br>
+Password: Kritik11
+
+Email: agarwal.raghav63@gmail.com <br>
+Password: Password
+
 ### Unimplemented Features:
 
 1. Reset password button
@@ -35,4 +45,5 @@ This command creates the generated files that parse each Record from Firestore i
 
 1. Profile photo stays the same for all users
 2. Sometimes all stats appear to be 0 just after login. Need to change page from bottom navigation bar and return to Home to see values
+3. Initial user points allocation is hardcoded. Registering a new user currently does not allocate any points
 
