@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1004425426404",
+    "project_id": "fitx-393c5",
+    "storage_bucket": "fitx-393c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004425426404:android:7b6244ff249fa6329743f1",
+        "android_client_info": {
+          "package_name": "com.flutter.fitx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004425426404-b3sa5tsqkcrsk755l0lpn67r5vokik1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.fitx",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1004425426404-rmf5uu790a0s9cf69qa9gvuq9sdh9g5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxTDjK7D45SUwEzCxYTmBJV5EdrjFqQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004425426404-rmf5uu790a0s9cf69qa9gvuq9sdh9g5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004425426404-0a2fj8df1m1oq48iefmtulp3phvuerj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.fitx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
