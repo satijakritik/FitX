@@ -1,6 +1,16 @@
 # FitX
 
-The Gamified Fitness App.
+The Gamified Fitness App for the COMP3330 course project.
+
+## Group Members
+
+
+| Name                | UID             |
+|---------------------|-----------------|
+| Kritik Satija       | 3035666645      |
+| Abhigyan Kashyap    | 3035661669      |
+| Raghav Agarwal      | 3035720697      |
+| Mohammad Muttasif   | 3035667778      |
 
 ## Getting Started
 
